@@ -1,0 +1,6 @@
+body{
+  background: #fff;
+}
+#test{
+  background-image: url(../images/close.svg);
+}
